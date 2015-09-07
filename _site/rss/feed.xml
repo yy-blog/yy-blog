@@ -6,5 +6,19 @@
 		<link>http://yy-blog.github.io/yy-blog</link>
 		<atom:link href="http://yy-blog.github.io/yy-blog/feed.xml" rel="self" type="application/rss+xml" />
 		
+			<item>
+				<title>Yoshka</title>
+				        
+				
+					<description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;ru&quot;&gt;
+
+</description>
+				
+				<pubDate>Sun, 06 Sep 2015 00:00:00 +0300</pubDate>
+				<link>http://yy-blog.github.io/yy-blog/2015/09/06/yoshka.html</link>
+				<guid isPermaLink="true">http://yy-blog.github.io/yy-blog/2015/09/06/yoshka.html</guid>
+			</item>
+		
 	</channel>
 </rss>
